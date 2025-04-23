@@ -1,2 +1,4 @@
-print(3+3)
-print(5-1)
+import calculadora
+
+calculadora.sumar(3,3)
+calculadora.restar(3,1)
